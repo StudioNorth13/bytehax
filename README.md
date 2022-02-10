@@ -1,5 +1,5 @@
 ![Light](http://forum.rocktube.ml/styles/aero/theme/images/site_logo.gif#gh-dark-mode-only)
-# RockTube Rewritten
+# RockTube Rewritten (new name and theme soon hopefully)
 Yeah that's right, RockTube but better.
 Now with:
 - Audio (not being added right now)
