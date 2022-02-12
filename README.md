@@ -1,5 +1,8 @@
 <!--![Light](http://forum.rocktube.ml/styles/aero/theme/images/site_logo.gif#gh-dark-mode-only)-->
-# &lt;byteHax>
+# &lt;byteHax&gt;
+[![Commit rate](https://img.shields.io/github/commit-activity/m/jko64/bytehax?label=Commits)](https://github.com/jko64/bytehax/commits/master)
+[![Issues](https://img.shields.io/github/issues/jko64/bytehax)](https://github.com/jko64/bytehax/issues)
+
 Yeah that's right, RevTube but better.
 Now with:
 - Audio (not being added right now)
