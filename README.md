@@ -11,7 +11,7 @@ Now with:
 - (possibly) Text
 - Profile pictures (damn real?)
 - Working follow/subscribe
-## byteHax v0.0.1-bs5
+## byteHax v0.0.7-bs5
 No preview yet
 <!--![preview](http://dev.rocktube.ml/static/preview/betafeb7-17.png)-->
 Progress (in %)? About 7% complete.
